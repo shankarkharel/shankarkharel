@@ -37,5 +37,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shankarkharel&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shankarkharel&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shankarkharel&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shankarkharel&theme=tokyonight)<br>
+
+[![Spotify](https://31tbsm7gxwtzr7q3gk6abcttidfm.vercel.app/api/spotify)](https://open.spotify.com/user/31tbsm7gxwtzr7q3gk6abcttidfm)
+
+
 
