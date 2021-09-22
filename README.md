@@ -39,7 +39,6 @@
 <br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shankarkharel&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shankarkharel&theme=tokyonight)<br>
 
-[![Spotify](https://31tbsm7gxwtzr7q3gk6abcttidfm.vercel.app/api/spotify)](https://open.spotify.com/user/31tbsm7gxwtzr7q3gk6abcttidfm)
 
 
 
