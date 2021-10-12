@@ -22,7 +22,6 @@
 <a target="_blank" href="https://www.facebook.com/shankar.kharel.73">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a><br>
-- ⚡ Fun fact: Love to listen bob dylan songs while Coding.<br>
 
 
 ### languages and tools that i work with:<br>
