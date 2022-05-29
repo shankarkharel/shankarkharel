@@ -76,6 +76,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shankarkharel&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shankarkharel&theme=tokyonight)<br>
 
+<img src="https://wakatime.com/share/@Shankar/f7482a28-d4be-41cf-ae7a-81359e7db047.svg" height="400"/>
+
 
 
 
