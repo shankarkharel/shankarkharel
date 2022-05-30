@@ -1,5 +1,7 @@
-                           Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"</br> width="28">
-
+<h3 align="center">
+  Hi There!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 <img src="https://readme-typing-svg.herokuapp.com?color=00B4AB&size=26&center=true&vCenter=true&width=900&lines=I+am+Shankar+Kharel.">
 
 <br>
