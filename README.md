@@ -1,4 +1,4 @@
-### Hi there 👋
+                                                                  ### Hi there 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00B4AB&size=26&center=true&vCenter=true&width=900&lines=I+am+Shankar+Kharel.">
 
@@ -11,22 +11,22 @@
 - 💬 Ask me about flutter dart ,js ,PHP,Python
 - 📫 How to reach me:<br>
 
-<a target="_blank" href="https://www.linkedin.com/in/shankar-kharel-162846168/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=9807592153">
+
+
+
+<p align="center">
+  <a href="https://twitter.com/shankarkharel19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parajulibkrm" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shankar-kharel-162846168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parajulibkrm" height="30" width="40" /></a>
+<a href="https://www.facebook.com/shankar.kharel.73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="parajulibkrm" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shankarkharel07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parajulibkrm" height="30" width="40" /></a>
+  <a target="_blank" href="https://api.whatsapp.com/send?phone=9807592153">
   <img align="left" color="red" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
-<a target="_blank" href="https://www.instagram.com/shankarkharel07/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+
 <a target="_blank" href="shankarkharel35@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a target="_blank" href="https://www.facebook.com/shankar.kharel.73">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a><br>
-
+</p>
 
 ### languages and tools that i work with:<br>
 
