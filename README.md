@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00B4AB&size=26&center=true&vCenter=true&width=900&lines=Hi%2C+I+am+Shankar+Kharel.">
+<img src="https://readme-typing-svg.herokuapp.com?color=00B4AB&size=26&center=true&vCenter=true&width=900&lines=I+am+Shankar+Kharel.">
+
+<br>
 
 
 - 🔭 I’m currently working on flutter projects
