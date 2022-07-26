@@ -6,7 +6,7 @@
 
 <br>
 
-SINCE FEB 28 2022  [![wakatime](https://wakatime.com/badge/user/5cdb542a-f510-41f8-95cc-59b8f3ec6d48.svg)](https://wakatime.com/@5cdb542a-f510-41f8-95cc-59b8f3ec6d48)
+ [![wakatime](https://wakatime.com/badge/user/5cdb542a-f510-41f8-95cc-59b8f3ec6d48.svg)](https://wakatime.com/@5cdb542a-f510-41f8-95cc-59b8f3ec6d48)
 - 🔭 I’m currently working on flutter projects
 - 🌱 I’m currently learning dart & js
 - 🤔 I’m looking for help with open source softwares
