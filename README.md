@@ -8,7 +8,7 @@
 
  [![wakatime](https://wakatime.com/badge/user/5cdb542a-f510-41f8-95cc-59b8f3ec6d48.svg)](https://wakatime.com/@5cdb542a-f510-41f8-95cc-59b8f3ec6d48)
 - 🔭 I’m currently working on flutter projects
-- 🌱 I’m currently learning dart & js
+- 🌱 I’m currently learning dart & Node js
 - 🤔 I’m looking for help with open source softwares
 - 💬 Ask me about flutter dart ,js ,PHP,Python
 - 📫 How to reach me:<br>
