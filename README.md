@@ -7,10 +7,10 @@
 <br>
 
  [![wakatime](https://wakatime.com/badge/user/5cdb542a-f510-41f8-95cc-59b8f3ec6d48.svg)](https://wakatime.com/@5cdb542a-f510-41f8-95cc-59b8f3ec6d48)
-- 🔭 I’m currently working on flutter projects
-- 🌱 I’m currently learning dart & Node js
+- 🔭 I’m currently working on Mobile App Development
+- 🌱 I’m currently Working as Instructor Trainer and Developer
 - 🤔 I’m looking for help with open source softwares
-- 💬 Ask me about flutter dart ,js ,PHP,Python
+- 💬 Ask me about flutter, dart ,java,js ,PHP,Python
 - 📫 How to reach me:<br>
 
 
@@ -62,12 +62,6 @@
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
-![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Bing](https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
