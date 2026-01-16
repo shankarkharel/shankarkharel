@@ -7,7 +7,7 @@
 <br>
 
  [![wakatime](https://wakatime.com/badge/user/5cdb542a-f510-41f8-95cc-59b8f3ec6d48.svg)](https://wakatime.com/@5cdb542a-f510-41f8-95cc-59b8f3ec6d48)
-- 🔭 I’m currently working on Mobile App Development
+- 🔭 I’m currently working on Scallable system Development
 - 🌱 I’m currently Working as Instructor Trainer and Developer
 - 🤔 I’m looking for help with open source softwares
 - 💬 Ask me about flutter, dart ,java,js ,PHP,Python
