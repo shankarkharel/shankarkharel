@@ -141,7 +141,7 @@ B2B communication and selling platform for global traders
 ### Sayatri / MeroAto
 Ride-sharing platform with web, admin, and mobile apps
 
-> You can replace these with pinned repositories once your public repos are ready.
+
 
 ---
 
