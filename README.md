@@ -1,77 +1,133 @@
-<h2 align="center">
-  Hii There !
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
-<img src="https://readme-typing-svg.herokuapp.com?color=00B4AB&size=26&center=true&vCenter=true&width=900&lines=I+am+Shankar+Kharel.">
-
-<br>
-
- [![wakatime](https://wakatime.com/badge/user/5cdb542a-f510-41f8-95cc-59b8f3ec6d48.svg)](https://wakatime.com/@5cdb542a-f510-41f8-95cc-59b8f3ec6d48)
-- 🔭 I’m currently working on Scalable Systems Development
-- 🌱 I’m currently Working as Instructor Trainer and Developer
-- 🤔 I’m looking for help with open source softwares
-- 💬 Ask me about flutter, dart ,java,js ,PHP,Python
-- 📫 How to reach me:<br>
-
-
-
-  **shankarkharel35@gmail.com**
+<h1 align="center">Hi, I'm Shankar Kharel 👋</h1>
+<h3 align="center">Full Stack Engineer | Backend-Focused | Web + Mobile + Scalable Systems</h3>
 
 <p align="center">
-  <a href="https://twitter.com/shankarkharel19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parajulibkrm" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shankar-kharel-162846168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shankar" height="30" width="40" /></a>
-<a href="https://www.facebook.com/shankar.kharel.73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="parajulibkrm" height="30" width="40" /></a>
-<a href="https://www.instagram.com/shankarkharel07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parajulibkrm" height="30" width="40" /></a>
+  <a href="mailto:itsshankar35@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/shankar-kharel-162846168/">LinkedIn</a> •
+  <a href="https://github.com/shankarkharel">GitHub</a>
 </p>
 
-### languages and tools that i work with:<br>
+---
 
+## About Me
 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=54fff4)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
-![Skill Share](https://img.shields.io/badge/Skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=00FF84)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
-![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
-![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
-![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
-![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Bing](https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+I’m a backend-focused Full Stack Engineer with 5+ years of experience building production systems across web and mobile platforms.
 
-<br>
+My strongest area is backend engineering with **Node.js, TypeScript, and NestJS**, but I also work confidently across the stack with **React, Flutter, PostgreSQL, and MySQL**. I enjoy designing scalable APIs, modular architectures, admin systems, integrations, and production-ready applications.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shankarkharel&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shankarkharel&theme=tokyonight)<br>
+- Building scalable backend systems and REST APIs
+- Developing web and mobile products end-to-end
+- Designing database schemas and system integrations
+- Working on secure, reliable, and maintainable software
+- Leading delivery from architecture to production support
 
-<img src="https://wakatime.com/share/@Shankar/0455e92d-b2e6-486c-9716-b3ec2ed101b2.svg" height="400"/>
+---
 
+## Tech Stack
 
+### Backend
+- Node.js
+- TypeScript
+- NestJS
+- REST APIs
+- Webhooks
+- Event-driven workflows
 
+### Frontend & Mobile
+- React
+- Flutter
+- Dart
+- JavaScript
+- HTML
+- CSS
 
+### Database
+- PostgreSQL
+- MySQL
+- MongoDB
+
+### Tools & DevOps
+- Git & GitHub
+- Docker
+- CI/CD
+- Postman
+- Firebase
+- Environment management
+- Monitoring & logging basics
+
+---
+
+## What I Work On
+
+- Scalable backend systems
+- Full stack web applications
+- Cross-platform mobile apps
+- Admin panels and CMS tools
+- API integrations and third-party services
+- Enterprise and product-based software systems
+
+---
+
+## Experience Snapshot
+
+### Team Lead / Principal Engineer — Hotstone Innovation
+- Led backend delivery using NestJS and PostgreSQL
+- Built reusable backend modules and common patterns
+- Developed Super Admin and CMS systems
+- Implemented reliable webhook and event-based workflows
+- Owned architecture, implementation, deployment, and production support
+
+### Team Lead — OAN Solutions
+- Delivered backend services and REST APIs with Node.js/NestJS
+- Improved API consistency and database structure
+- Collaborated with QA and stakeholders for stable releases
+
+### Team Lead — Sayatri Technologies
+- Worked across backend services, admin tooling, and mobile apps
+- Designed relational schemas and REST APIs
+- Focused on scalable and reliable product development
+
+### Full Stack Developer — Des Vu Technologies
+- Built backend services and APIs for web and mobile clients
+- Worked with Node.js, PostgreSQL, React, and Flutter
+- Delivered end-to-end product features with clean architecture
+
+---
+
+## Featured Work
+
+### 2Klips
+Web + Mobile + Super Admin/CMS + Insights platform
+
+### Aikon
+B2B communication and selling platform for global traders
+
+### Sayatri / MeroAto
+Ride-sharing platform with web, admin, and mobile applications
+
+---
+
+## Open To
+
+I’m interested in roles and collaborations involving:
+
+- Full Stack Engineering
+- Backend Engineering
+- Web + Mobile Product Development
+- Scalable SaaS and enterprise systems
+- API architecture and integrations
+
+---
+
+## Contact
+
+- Email: **itsshankar35@gmail.com**
+- Location: **Lalitpur, Nepal**
+- LinkedIn: **https://www.linkedin.com/in/shankar-kharel-162846168/**
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shankarkharel&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankarkharel&layout=compact&theme=tokyonight" />
+</p>
